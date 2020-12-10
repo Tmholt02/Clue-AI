@@ -4,7 +4,8 @@ class Main {
 			new Player("Thomas", Suspect.SCARLET, 0),
 			new Player("Alexis", Suspect.MUSTARD, 1),
 			new Player("Ryan", Suspect.GREEN, 2),
-			new Player("George", Suspect.PLUM, 3)
+			new Player("George", Suspect.PLUM, 3),
+			new Player("Smith", Suspect.PEACOCK, 4)
 		});
   }
 }
