@@ -9,6 +9,4 @@ public class DataSheet {
 		sheet = new Box[21][players.length];
 
 	}
-
-	public 
 }
