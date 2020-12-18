@@ -1,5 +1,11 @@
- import java.util.List;
+import java.util.List;
 import java.util.ArrayList;
+
+enum BoxState {
+	UNKNOWN,
+	AFFIRMATIVE,
+	NEGATIVE
+}
 
 public class Box {
 

@@ -13,4 +13,8 @@ public class Player {
 	public Suspect getPawn() {
 		return pawn;
 	}
+
+	public int col() {
+		return column;
+	}
 }

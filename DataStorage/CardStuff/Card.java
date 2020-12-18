@@ -1,5 +1,5 @@
 public interface Card {
-	public abstract int getRow();
+	public abstract int row();
 	public abstract CardType getCardType();
 }
 

@@ -14,7 +14,7 @@ public enum Weapon implements Card {
 		this.row = row;
 	}
 
-	public int getRow() {
+	public int row() {
 		return row;
 	}
 
